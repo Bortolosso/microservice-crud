@@ -1,4 +1,4 @@
-Schema API
+Test Schema API
 
 {
 	"name": "Bortolosso",
